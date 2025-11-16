@@ -74,7 +74,7 @@ This workflow isn’t just another PDF-to-audio tool—it’s a **smart pipeline
 ## 🛠 Setup Instructions
 
 1. **Clone this repo**
-git clone https://github.com/yourusername/book2audio-pro
+git clone https://github.com/UniteUniverse/Book2Audio-Pro
 
 2. **Import the .json workflow into n8n**  
 Go to Settings → Import Workflow → Upload File
